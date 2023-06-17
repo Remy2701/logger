@@ -1,0 +1,6 @@
+[submodule "libs/ansi"]
+	path = libs/ansi
+	url = https://github.com/remy2701/ansi
+[submodule "libs/timestamp"]
+	path = libs/timestamp
+	url = https://github.com/remy2701/timestamp
