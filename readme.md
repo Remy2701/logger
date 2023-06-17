@@ -11,7 +11,7 @@ This library depends on the [ansi](https://github.com/Remy2701/ansi) library and
 Clone this repository in your libs folder.
 
 ```sh
-git clone https://github.com/Remy2701/logger
+git clone --recursive https://github.com/Remy2701/logger
 ```
 
 Then add the following line in the `build.zig`:
